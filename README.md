@@ -133,7 +133,7 @@ Bu repo, Murat Yücedağ eğitmenliğinde gerçekleştirdiğim **C# Eğitim Kamp
 * LINQ ile veri filtreleme
 * Windows Forms üzerinde veri görselleştirme
 
-  ![İstatistik Paneli Ekran Görüntüsü](Ekran görüntüsü 2025-10-24 140727.png)
+  ![İstatistik Paneli Ekran Görüntüsü](https://github.com/Betulkarakoc/CSharpEgitimKampi/blob/71375977a66b7b5d04da062016086b9698d37a36/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-24%20140727.png))
 
 ---
 
