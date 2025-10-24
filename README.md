@@ -133,6 +133,8 @@ Bu repo, Murat Yücedağ eğitmenliğinde gerçekleştirdiğim **C# Eğitim Kamp
 * LINQ ile veri filtreleme
 * Windows Forms üzerinde veri görselleştirme
 
+   https://github.com/Betulkarakoc/CSharpEgitimKampi/commit/ddd83336fa68c776092884a398ad143dc18dae6c
+
 ---
 
 Bu projeler sayesinde **C# programlama diline dair temel kavramları uygulamalı olarak öğrendim** ve ilerleyen projelerde bilgimi daha da geliştireceğim.
